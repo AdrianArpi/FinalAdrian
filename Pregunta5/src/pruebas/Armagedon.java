@@ -4,7 +4,8 @@ public class Armagedon {
 
 	static class Muerte {String nombre ="Muerte";
 		public Muerte(){super();};
-		public String Invocar() {return "El fin se acerca, soy: ";}
+		public String Invocar() {String string = "El fin se acerca, soy: ";
+		return string;}
 		public char[] nombre() {
 			// TODO Auto-generated method stub
 			return null;
@@ -14,16 +15,6 @@ public class Armagedon {
 	
 	static class Guerra {String nombre ="Guerra";
 	public Guerra(){super();};
-	public String Invocar() {return "El fin se acerca, soy: ";}
-	public char[] nombre() {
-		// TODO Auto-generated method stub
-		return null;
-	};
-
-}
-	
-	static class Peste {String nombre ="Peste";
-	public Peste(){super();};
 	public String Invocar() {return "El fin se acerca, soy: ";}
 	public char[] nombre() {
 		// TODO Auto-generated method stub
