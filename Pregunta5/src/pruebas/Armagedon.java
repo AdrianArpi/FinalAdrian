@@ -1,5 +1,9 @@
 package pruebas;
-
+/**
+ * Me quedo con este comentario
+ * @author dw1a_alum1
+ *
+ */
 public class Armagedon {
 
 	static class Muerte {String nombre ="Muerte";
